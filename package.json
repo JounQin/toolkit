@@ -25,7 +25,7 @@
     "@babel/core": "^7.24.9",
     "@babel/parser": "^7.24.8",
     "@swc/core": "^1.7.0",
-    "tsup": "^8.2.1",
+    "tsup": "^8.3.5",
     "typescript": "^5.5.3"
   },
   "devDependencies": {
@@ -54,7 +54,7 @@
     "prettier-plugin-astro": "^0.14.1",
     "tslib": "^2.6.3",
     "vite-tsconfig-paths": "^5.1.2",
-    "vitest": "^2.1.5"
+    "vitest": "^2.1.9"
   },
   "lint-staged": {
     "packages/**/*.{ts,tsx}": [
